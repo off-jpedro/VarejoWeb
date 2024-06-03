@@ -1,0 +1,12 @@
+C:\Users\Suporte\Documents\Projetos\VarejoWeb\Domain\bin\Debug\net8.0\DomainLibrary.deps.json
+C:\Users\Suporte\Documents\Projetos\VarejoWeb\Domain\bin\Debug\net8.0\DomainLibrary.dll
+C:\Users\Suporte\Documents\Projetos\VarejoWeb\Domain\bin\Debug\net8.0\DomainLibrary.pdb
+C:\Users\Suporte\Documents\Projetos\VarejoWeb\Domain\obj\Debug\net8.0\DomainLibrary.csproj.AssemblyReference.cache
+C:\Users\Suporte\Documents\Projetos\VarejoWeb\Domain\obj\Debug\net8.0\DomainLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Suporte\Documents\Projetos\VarejoWeb\Domain\obj\Debug\net8.0\DomainLibrary.AssemblyInfoInputs.cache
+C:\Users\Suporte\Documents\Projetos\VarejoWeb\Domain\obj\Debug\net8.0\DomainLibrary.AssemblyInfo.cs
+C:\Users\Suporte\Documents\Projetos\VarejoWeb\Domain\obj\Debug\net8.0\DomainLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Suporte\Documents\Projetos\VarejoWeb\Domain\obj\Debug\net8.0\DomainLibrary.dll
+C:\Users\Suporte\Documents\Projetos\VarejoWeb\Domain\obj\Debug\net8.0\refint\DomainLibrary.dll
+C:\Users\Suporte\Documents\Projetos\VarejoWeb\Domain\obj\Debug\net8.0\DomainLibrary.pdb
+C:\Users\Suporte\Documents\Projetos\VarejoWeb\Domain\obj\Debug\net8.0\ref\DomainLibrary.dll
