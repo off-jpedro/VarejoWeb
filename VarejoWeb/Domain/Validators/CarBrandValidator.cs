@@ -49,7 +49,9 @@ namespace Domain.Validators
             .NotNull().WithMessage("O Id não pode ser nulo!");
 
             RuleFor(c => c.Status)
-            .NotEqual(Status.Active);
+            .NotEqual(Status.Active)
+            .NotEmpty().WithMessage("O campo Status não pode está vazio ou ser null!");
+            
         }
     }
 }
