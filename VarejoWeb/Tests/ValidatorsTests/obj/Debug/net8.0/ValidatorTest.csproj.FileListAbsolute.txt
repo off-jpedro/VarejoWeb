@@ -103,3 +103,4 @@ C:\Users\Suporte\Documents\Projetos\VarejoWeb\Tests\ValidatorsTests\obj\Debug\ne
 C:\Users\Suporte\Documents\Projetos\VarejoWeb\Tests\ValidatorsTests\obj\Debug\net8.0\ValidatorTest.pdb
 C:\Users\Suporte\Documents\Projetos\VarejoWeb\Tests\ValidatorsTests\obj\Debug\net8.0\ValidatorTest.genruntimeconfig.cache
 C:\Users\Suporte\Documents\Projetos\VarejoWeb\Tests\ValidatorsTests\obj\Debug\net8.0\ref\ValidatorTest.dll
+C:\Users\Suporte\Documents\Projetos\VarejoWeb\Tests\ValidatorsTests\obj\Debug\net8.0\ValidatorTest.sourcelink.json

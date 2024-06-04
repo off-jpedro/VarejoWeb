@@ -10,3 +10,4 @@ C:\Users\Suporte\Documents\Projetos\VarejoWeb\Domain\obj\Debug\net8.0\DomainLibr
 C:\Users\Suporte\Documents\Projetos\VarejoWeb\Domain\obj\Debug\net8.0\refint\DomainLibrary.dll
 C:\Users\Suporte\Documents\Projetos\VarejoWeb\Domain\obj\Debug\net8.0\DomainLibrary.pdb
 C:\Users\Suporte\Documents\Projetos\VarejoWeb\Domain\obj\Debug\net8.0\ref\DomainLibrary.dll
+C:\Users\Suporte\Documents\Projetos\VarejoWeb\Domain\obj\Debug\net8.0\DomainLibrary.sourcelink.json

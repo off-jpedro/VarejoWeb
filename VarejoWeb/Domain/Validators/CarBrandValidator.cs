@@ -1,3 +1,4 @@
+using Domain.Enums;
 using Domain.Library;
 using Domain.Models;
 using Domain.Validators.Interfaces;
@@ -47,6 +48,8 @@ namespace Domain.Validators
             .NotEqual(0).WithMessage("O Id não pode ser zero!")
             .NotNull().WithMessage("O Id não pode ser nulo!");
 
+            RuleFor(c => c.Status)
+            .NotEqual(Status.Active);
         }
     }
 }

@@ -122,6 +122,7 @@ namespace ValidatorsTests
             //Arrange
             var carBrand = new CarBrand{
                 Id = 1,
+                Status = Domain.Enums.Status.Inactive
             };
 
             //Act
