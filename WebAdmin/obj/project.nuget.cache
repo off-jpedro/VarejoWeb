@@ -1,13 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "wxXnsiUtgQw5dT3e68hKXZ47hH1U7zhpIPq2EudrknwXB7ugADJpgADeHc18X7qv3ZeyygAIBa2fSJtaXtmrOA==",
+  "dgSpecHash": "MQJdb55v0hHrNuoF1m3oiJsnOXhpz+Qc/qrJJZwxglndzA2Ncr9feAWYqBSnUz5MNJXMt5TgFFWRuigC95Sr2Q==",
   "success": true,
-  "projectFilePath": "C:\\MyProject\\VarejoWeb\\WebAdmin\\WebAdmin.csproj",
+  "projectFilePath": "C:\\Users\\Suporte\\Documents\\Projetos\\WebAdmin\\WebAdmin.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\João Pedro\\.nuget\\packages\\fluentvalidation\\11.9.1\\fluentvalidation.11.9.1.nupkg.sha512",
-    "C:\\Users\\João Pedro\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.3.0\\fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",
-    "C:\\Users\\João Pedro\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.5.1\\fluentvalidation.dependencyinjectionextensions.11.5.1.nupkg.sha512",
-    "C:\\Users\\João Pedro\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512"
+    "C:\\Users\\Suporte\\.nuget\\packages\\fluentvalidation\\11.9.1\\fluentvalidation.11.9.1.nupkg.sha512",
+    "C:\\Users\\Suporte\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.3.0\\fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",
+    "C:\\Users\\Suporte\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.5.1\\fluentvalidation.dependencyinjectionextensions.11.5.1.nupkg.sha512",
+    "C:\\Users\\Suporte\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512"
   ],
   "logs": []
 }
