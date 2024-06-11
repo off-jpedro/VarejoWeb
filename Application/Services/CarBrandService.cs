@@ -23,27 +23,87 @@ namespace VarejoWeb.Service
        
         public async Task<IEnumerable<CarBrand>> GetAll()
         {
-            var  result = await _carBrandRepository.GetAll();
-            return result;
+            try{
+
+              return await _carBrandRepository.GetAll();
+            }
+            catch(Exception ex){
+              throw new Exception($"Erro ao filtrar as marcas de carros! {ex.Message}");    
+            }
+            
         }
 
-        public Task<CarBrand> GetById(long id)
+        public async Task<CarBrand> GetById(long id)
         {
+            _carBrandValidator.SetValidationForGetById();
+
+            try{
+                    return await _carBrandRepository.GetById(id);
+            }
+            catch(Exception ex){
+                throw new Exception($"Erro ao pesquisar a marca de carro! {id}");
+            }
         }
 
-        public Task<bool> Insert(CarBrand entity)
+        public async Task<bool> Insert(CarBrand entity)
         {
-            throw new NotImplementedException();
+           _carBrandValidator.SetValidationForInsert();
+
+            var sucess = await _carBrandRepository.Insert(entity);
+
+           try{
+
+                if(!sucess){
+
+                    throw new Exception("Erro ao inserir a marca de carro!");
+                }
+
+                return sucess;
+           }
+
+           catch(Exception ex){
+
+            throw new Exception($"Erro ao inserir a marca de carro!{ex.Message}");
+
+           }
         }
 
-        public Task<bool> Update(CarBrand entity)
+        public async Task<bool> Update(CarBrand entity)
         {
-            throw new NotImplementedException();
+           _carBrandValidator.SetValidationForUpdate();
+
+           var sucess = await _carBrandRepository.Update(entity);
+
+           try{
+
+            if(!sucess){
+                throw new Exception("Erro ao atualizar a marca de carro!");
+            }
+
+            return sucess;
+
+           }
+           catch (Exception ex){
+            throw new Exception($"Erro ao atualizar a marca de carro!{ex.Message}");
+           }
         }
         
-         public Task<bool> Delete(CarBrand entity)
+         public async Task<bool> Delete(CarBrand entity)
         {
-            throw new NotImplementedException();
+            _carBrandValidator.SetValidationForDelete();
+
+            var sucess = await _carBrandRepository.Delete(entity);
+
+            try {
+                if(!sucess){
+                    throw new Exception("Erro ao excluir a marca de carro!");
+                }
+
+                return sucess;
+            }
+            catch(Exception ex){
+                 throw new Exception($"Erro ao excluir a marca de carro!{ex.Message}");
+            }
         }
 
     }

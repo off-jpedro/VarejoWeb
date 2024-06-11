@@ -1,33 +1,36 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Suporte\\Documents\\Projetos\\Application\\ApplicationLibrary.csproj": {}
+    "C:\\MeuProjeto\\VarejoWeb\\Application\\ApplicationLibrary.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Suporte\\Documents\\Projetos\\Application\\ApplicationLibrary.csproj": {
+    "C:\\MeuProjeto\\VarejoWeb\\Application\\ApplicationLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Suporte\\Documents\\Projetos\\Application\\ApplicationLibrary.csproj",
+        "projectUniqueName": "C:\\MeuProjeto\\VarejoWeb\\Application\\ApplicationLibrary.csproj",
         "projectName": "ApplicationLibrary",
-        "projectPath": "C:\\Users\\Suporte\\Documents\\Projetos\\Application\\ApplicationLibrary.csproj",
-        "packagesPath": "C:\\Users\\Suporte\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Suporte\\Documents\\Projetos\\Application\\obj\\",
+        "projectPath": "C:\\MeuProjeto\\VarejoWeb\\Application\\ApplicationLibrary.csproj",
+        "packagesPath": "C:\\Users\\João Pedro\\.nuget\\packages\\",
+        "outputPath": "C:\\MeuProjeto\\VarejoWeb\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Suporte\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\João Pedro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Suporte\\Documents\\Projetos\\Data\\DataLibrary.csproj": {
-                "projectPath": "C:\\Users\\Suporte\\Documents\\Projetos\\Data\\DataLibrary.csproj"
+              "C:\\MeuProjeto\\VarejoWeb\\Data\\DataLibrary.csproj": {
+                "projectPath": "C:\\MeuProjeto\\VarejoWeb\\Data\\DataLibrary.csproj"
               }
             }
           }
@@ -62,34 +65,37 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Suporte\\Documents\\Projetos\\Data\\DataLibrary.csproj": {
+    "C:\\MeuProjeto\\VarejoWeb\\Data\\DataLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Suporte\\Documents\\Projetos\\Data\\DataLibrary.csproj",
+        "projectUniqueName": "C:\\MeuProjeto\\VarejoWeb\\Data\\DataLibrary.csproj",
         "projectName": "DataLibrary",
-        "projectPath": "C:\\Users\\Suporte\\Documents\\Projetos\\Data\\DataLibrary.csproj",
-        "packagesPath": "C:\\Users\\Suporte\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Suporte\\Documents\\Projetos\\Data\\obj\\",
+        "projectPath": "C:\\MeuProjeto\\VarejoWeb\\Data\\DataLibrary.csproj",
+        "packagesPath": "C:\\Users\\João Pedro\\.nuget\\packages\\",
+        "outputPath": "C:\\MeuProjeto\\VarejoWeb\\Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Suporte\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\João Pedro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Suporte\\Documents\\Projetos\\Domain\\DomainLibrary.csproj": {
-                "projectPath": "C:\\Users\\Suporte\\Documents\\Projetos\\Domain\\DomainLibrary.csproj"
+              "C:\\MeuProjeto\\VarejoWeb\\Domain\\DomainLibrary.csproj": {
+                "projectPath": "C:\\MeuProjeto\\VarejoWeb\\Domain\\DomainLibrary.csproj"
               }
             }
           }
@@ -130,26 +136,29 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Suporte\\Documents\\Projetos\\Domain\\DomainLibrary.csproj": {
+    "C:\\MeuProjeto\\VarejoWeb\\Domain\\DomainLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Suporte\\Documents\\Projetos\\Domain\\DomainLibrary.csproj",
+        "projectUniqueName": "C:\\MeuProjeto\\VarejoWeb\\Domain\\DomainLibrary.csproj",
         "projectName": "DomainLibrary",
-        "projectPath": "C:\\Users\\Suporte\\Documents\\Projetos\\Domain\\DomainLibrary.csproj",
-        "packagesPath": "C:\\Users\\Suporte\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Suporte\\Documents\\Projetos\\Domain\\obj\\",
+        "projectPath": "C:\\MeuProjeto\\VarejoWeb\\Domain\\DomainLibrary.csproj",
+        "packagesPath": "C:\\Users\\João Pedro\\.nuget\\packages\\",
+        "outputPath": "C:\\MeuProjeto\\VarejoWeb\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Suporte\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\João Pedro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -198,7 +207,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

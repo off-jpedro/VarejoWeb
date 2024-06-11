@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = RepositoryTest
-build_property.ProjectDir = C:\Users\Suporte\Documents\Projetos\Tests\RepositoryTests\
+build_property.ProjectDir = c:\MeuProjeto\VarejoWeb\Tests\RepositoryTests\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

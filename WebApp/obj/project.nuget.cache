@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Ujeh5BlY3L+Y4NMCfAvQBYViQhLVkDoVsH728NSDCEj2VqUg1MvBqB492QqcupoiMtueLSELz1y2pS7I8LJTWQ==",
+  "dgSpecHash": "yVUcT2B3z4VXOUDHBz/cLvTId3Blwlx6+lklyrkRToP8hdvRznuzalhwBxy7qcRxFkVh/nb5uEFhgjci0WMJfA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Suporte\\Documents\\Projetos\\WebApp\\WebApp.csproj",
+  "projectFilePath": "C:\\MeuProjeto\\VarejoWeb\\WebApp\\WebApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

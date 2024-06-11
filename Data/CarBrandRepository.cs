@@ -33,7 +33,7 @@ namespace Data
             return Task.FromResult(_listCarBrand.AsEnumerable());
         }
 
-        public Task<CarBrand> GetById(int id)
+        public Task<CarBrand> GetById(long id)
         {
             var entity = this._listCarBrand.FirstOrDefault( x => x.Id == id );
             

@@ -37,3 +37,16 @@ c:\Users\Suporte\Documents\Projetos\Domain\obj\Debug\net8.0\DomainLibrary.dll
 c:\Users\Suporte\Documents\Projetos\Domain\obj\Debug\net8.0\refint\DomainLibrary.dll
 c:\Users\Suporte\Documents\Projetos\Domain\obj\Debug\net8.0\DomainLibrary.pdb
 c:\Users\Suporte\Documents\Projetos\Domain\obj\Debug\net8.0\ref\DomainLibrary.dll
+c:\MeuProjeto\VarejoWeb\Domain\bin\Debug\net8.0\DomainLibrary.deps.json
+c:\MeuProjeto\VarejoWeb\Domain\bin\Debug\net8.0\DomainLibrary.dll
+c:\MeuProjeto\VarejoWeb\Domain\bin\Debug\net8.0\DomainLibrary.pdb
+c:\MeuProjeto\VarejoWeb\Domain\obj\Debug\net8.0\DomainLibrary.csproj.AssemblyReference.cache
+c:\MeuProjeto\VarejoWeb\Domain\obj\Debug\net8.0\DomainLibrary.GeneratedMSBuildEditorConfig.editorconfig
+c:\MeuProjeto\VarejoWeb\Domain\obj\Debug\net8.0\DomainLibrary.AssemblyInfoInputs.cache
+c:\MeuProjeto\VarejoWeb\Domain\obj\Debug\net8.0\DomainLibrary.AssemblyInfo.cs
+c:\MeuProjeto\VarejoWeb\Domain\obj\Debug\net8.0\DomainLibrary.csproj.CoreCompileInputs.cache
+c:\MeuProjeto\VarejoWeb\Domain\obj\Debug\net8.0\DomainLibrary.sourcelink.json
+c:\MeuProjeto\VarejoWeb\Domain\obj\Debug\net8.0\DomainLibrary.dll
+c:\MeuProjeto\VarejoWeb\Domain\obj\Debug\net8.0\refint\DomainLibrary.dll
+c:\MeuProjeto\VarejoWeb\Domain\obj\Debug\net8.0\DomainLibrary.pdb
+c:\MeuProjeto\VarejoWeb\Domain\obj\Debug\net8.0\ref\DomainLibrary.dll
